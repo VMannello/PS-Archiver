@@ -4,7 +4,7 @@ PowerShell script, zips each folder and creates a content file. For archiving jo
 Needs two parameters set: Source, Dest
 
 If "source" looks like this:
-
+`````
 job1/
 ├── css/
 │   ├── bootstrap.css
@@ -19,13 +19,13 @@ job1/
     ├── glyphicons-halflings-regular.svg
     ├── glyphicons-halflings-regular.ttf
     └── glyphicons-halflings-regular.woff
-
+``````
 "Dest" will look like this:
-
+``````
 job1/
 ├── job1.zip
 ├── contents.txt
-
+``````
 "contents.txt" contains a line by line of every file zipped
 
 You can adjust the compression level and format of conents.txt.
