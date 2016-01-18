@@ -1,6 +1,8 @@
 # PS-Archiver
 PowerShell script, zips each folder and creates a content file. For archiving job organized file servers. (I.e. print shops, design studios, etc...)
 
+Depends on [7z](www.7-zip.org/download.html) installed on local computer.
+
 Needs two parameters set: Source, Dest
 
 If "source" looks like this:
