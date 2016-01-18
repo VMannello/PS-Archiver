@@ -19,7 +19,6 @@ job1/
     ├── glyphicons-halflings-regular.svg
     ├── glyphicons-halflings-regular.ttf
     └── glyphicons-halflings-regular.woff
-    
 
 "Dest" will look like this:
 
